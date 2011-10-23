@@ -1,0 +1,2 @@
+module JobValueTypeHelper
+end
